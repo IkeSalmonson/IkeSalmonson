@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on Digital Tranformation for "boring" businesses
 - 🌱 I’m currently learning Full Cycle Development using Go and Docker on Linux WSL2
+  - [Go Docker optimized container repo] (https://github.com/IkeSalmonson/fullcycle3-go)   
 - 💬 Ask me about data aquisition, normalization and exploration.
 - 📫 How to reach me: Add on [LinkedIn](https://www.linkedin.com/in/luiz-henrique-salmonson/)
 
